@@ -4,7 +4,8 @@ Who I am:
 - Gender: Male
 
 My interests with technology:
-My biggest intrest is with cyber security, but I also find interest with software development
+- My biggest intrest is with cyber security
+- But I also find interest with software development
 
 What I am currently learning:
 - python
