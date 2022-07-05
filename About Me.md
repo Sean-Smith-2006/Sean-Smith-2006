@@ -4,13 +4,15 @@ Who I am:
 - Gender: Male
 
 My interests with technology:
-- cyber security
-- networking
+My biggest intrest is with cyber security, but I also find interest with software development
 
 What I am currently learning:
 - python
-- HTML
 - network hardware
+
+What I would like to learn in the future:
+- C++
+- Java script
 
 How to contact me:
 - Email: @sean.a.r.smith2006@gmail.com
